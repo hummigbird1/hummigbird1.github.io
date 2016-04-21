@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: blog
 title: Linksammlung zum Toolporn Event
 author: hndnug
@@ -10,10 +10,10 @@ Wie versprochen nochmal die Linksammlung zu den "Tools" die beim letzten Event v
 Remote Website (Javascript) Debugging mit: 
 * <http://vorlonjs.com/>
 
-Meta-Tool: Ermöglicht euch das finden von neuen "Online-Tools": 
+Meta-Tool: ErmÃ¶glicht euch das finden von neuen "Online-Tools": 
 * <http://maqtoob.com>
 
-Seitenübergreifende Workflows mit:
+SeitenÃ¼bergreifende Workflows mit:
 * <http://zapier.com> 
 * <https://ifttt.com/>
 * <http://camunda.com>
@@ -22,7 +22,7 @@ Seitenübergreifende Workflows mit:
 [RSS](https://en.wikipedia.org/wiki/RSS)-Reader / Aggregator: 
 * <http://feedly.com>
 
-Linksammler / "Später-lesen": 
+Linksammler / "SpÃ¤ter-lesen": 
 * <https://getpocket.com/>
 
 Rapid-Prototyping:
@@ -49,6 +49,6 @@ Kostenlose HTTPS Zertifikate:
 * <http://letsencrypt.org>
 
 
-Folgende Tools wurden nicht explizit vorgestellt, sind aber nebenbei erwähnt worden und daher vielleicht interessant:
+Folgende Tools wurden nicht explizit vorgestellt, sind aber nebenbei erwÃ¤hnt worden und daher vielleicht interessant:
 * Screen Sharing on any device: <http://screenmeet.com>
-* Online Forms: <http://wufoo.com> 
+* Online Forms: <http://wufoo.com>
